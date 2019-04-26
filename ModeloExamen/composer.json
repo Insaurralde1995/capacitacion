@@ -1,0 +1,7 @@
+{
+    "name": "modelo/examen",
+    "description": "practica para el examen",
+    "require": {
+        "phpunit/phpunit": "^8.1"
+    }
+}
